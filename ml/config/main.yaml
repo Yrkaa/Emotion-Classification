@@ -1,9 +1,5 @@
-defaults:
-  - process: process1
-  - model: model1
-  - _self_
-
 data:
-  raw: data/raw/sample.csv
-  processed: data/processed/processed.csv
-  final: data/final/final.csv
+  raw_csv: data/raw/emotions.csv
+  raw_img: data/raw/images
+  processed_csv: data/processed/processed.csv
+  processed_img: data/processed/images
