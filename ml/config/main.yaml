@@ -1,5 +1,15 @@
 data:
   raw_csv: data/raw/emotions.csv
   raw_img: data/raw/images
-  processed_csv: data/processed/processed.csv
+  processed_csv: data/processed/emotions.csv
   processed_img: data/processed/images
+
+  class_map:
+    Anger: 1
+    Contempt: 2
+    Disgust: 3
+    Fear: 4
+    Happy: 5
+    Neutral: 6
+    Sad: 7
+    Surprised: 8
