@@ -9,5 +9,5 @@ data:
     fear: 2
     happy: 3
     neutral: 4
-    sad: 6
-    surprise: 7
+    sad: 5
+    surprise: 6
